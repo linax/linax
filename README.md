@@ -1,4 +1,4 @@
-# Hi there, I'm [Tu Nombre]! 🚀
+# Hi there, I'm Carolina Lagos! 🚀
 
 **Senior Software Engineer | M.Sc. in Innovation | Tech Podcaster**
 
