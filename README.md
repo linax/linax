@@ -34,10 +34,10 @@ With **+12 years of experience** building scalable software and leading entrepre
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="github-readme-stats-fast.vercel.app/api?username=linax&show_icons=true&theme=radical" alt="Carolina's Stats" />
-  <img src="github-readme-stats-fast.vercel.app/api/top-langs/?username=linax&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
+[![Linax's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=linax&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=linax&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
