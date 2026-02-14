@@ -1,8 +1,5 @@
 # Hi there, I'm Carolina Lagos! 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BlbGc3ZHR6bmd5Z3d2a3Z6N3Z6N3Z6N3Z6N3Z6/qgQU3RY5pxRAI/giphy.gif" width="600" height="auto"/>
-</div>
 
 ### 👩‍💻 Senior Software Engineer | M.Sc. in Innovation | Tech Podcaster
 
@@ -38,8 +35,8 @@ With **+12 years of experience** building scalable software and leading entrepre
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=linax&show_icons=true&theme=radical" alt="Carolina's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linax&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="github-readme-stats-fast.vercel.app/api?username=linax&show_icons=true&theme=radical" alt="Carolina's Stats" />
+  <img src="github-readme-stats-fast.vercel.app/api/top-langs/?username=linax&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
