@@ -35,10 +35,9 @@ With **+12 years of experience** building scalable software and leading entrepre
 
 ### 📈 GitHub Stats
 
-[![Linax's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=linax&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=linax&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linax&theme=radical)](https://git.io/streak-stats)
 ---
 
 <div align="center">
