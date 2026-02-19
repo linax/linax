@@ -3,7 +3,7 @@
 
 ### 👩‍💻 Senior Software Engineer | M.Sc. in Innovation | Tech Podcaster
 
-With **+12 years of experience** building scalable software and leading entrepreneurial ventures, I bridge the gap between complex engineering and strategic business growth. I don't just write code; I design technology ecosystems with a focus on social impact and future-forward efficiency.
+With **+12 years of experience** building scalable software and leading entrepreneurial ventures, I bridge the gap between complex engineering and strategic business growth. I don't just write code on backend or frontend; I design technology ecosystems with a focus on social impact and future-forward efficiency.
 
 ---
 
@@ -15,10 +15,9 @@ With **+12 years of experience** building scalable software and leading entrepre
 ---
 
 ### 🔭 Current Focus & Research
+* **Inclusion Advocate:** Leading projects like [Ciudad Fácil](https://ciudadfacil.cl)  (Universal Accessibility) and Art21 (My Master degree thesis on Inclusive Art in Healthcare) to democratize access through technology.
 * **Quantum Computing:** Researching Qiskit applications.
-* **Accessibility Tech:** Building [Ciudad Fácil](https://ciudadfacil.cl) and **Art21** to democratize access through technology.
 * **Innovation Strategist:** M.Sc. in Innovation, specialized in Lean Startup, Design Methods, and the Startup Journey framework.
-* **Inclusion Advocate:** Leading projects like Ciudad Fácil (Universal Accessibility) and Art21 (My Master degree thesis on Inclusive Art in Healthcare).
 
 ---
 
